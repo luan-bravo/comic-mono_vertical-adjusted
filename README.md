@@ -6,9 +6,10 @@ I do not know how to make and modify fonts, so this was all done with trial and 
  - Use the generated Ascent values win, typo and HHead Ascent to set each Descent to 10% of their respective Ascent.
 
 ### To-do
- - [ ] Run in through [NerdFont patcher]() with the `--complete` option.
- - [ ] Add (at least latin) languages accents (i.e.: `á`, `ç`, `ê`, etc.)
- - [ ] Add Ligatures that are actually Comic
+ - [ ] Run in through [NerdFont patcher]() with the `--complete` option;
+ - [ ] Better align special characters (like: `=`, `*`, `+`);
+ - [ ] Add (at least latin) languages accents (i.e.: `á`, `ç`, `ê`);
+ - [ ] Add Ligatures that are actually Comic;
 
 # Comic Mono
 A legible monospace font... the very typeface you’ve been trained to recognize since childhood. This font is a fork of [Shannon Miwa](https://github.com/shannpersand)’s [Comic Shanns](https://github.com/shannpersand/comic-shanns) (version 1).
